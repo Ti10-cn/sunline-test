@@ -20,6 +20,7 @@ class SunlineTestApplicationTests {
         BigDecimal bigDecimal01 = new BigDecimal("0.00000000000000000123");
         System.out.println(bigDecimal01);
         System.out.println("helloworld");
+        System.out.println("test");
     }
 
 }
